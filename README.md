@@ -5,3 +5,7 @@ Horion-China Release
 
 Horion-China开发时间尚短，如有bug欢迎在Issues反馈！
 由于各位开发者上学 开学季将暂停开发。
+
+主要开发者:
+OIMeowIO
+MacroModel2019
