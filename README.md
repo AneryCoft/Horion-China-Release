@@ -9,3 +9,4 @@ Horion-China开发时间尚短，如有bug欢迎在Issues反馈！
 主要开发者:
 OIMeowIO
 MacroModel2019
+Jdjknf
