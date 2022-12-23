@@ -192,7 +192,7 @@
         "Client": {
             "isExtended": true,
             "pos": {
-                "x": 471.0,
+                "x": 439.0,
                 "y": 4.0
             }
         },
@@ -381,7 +381,6 @@
         "Keystrokes": true,
         "Notifications": true,
         "Scale": 1.0,
-        "Show Angle": false,
         "Show Armor": true,
         "Show CPS": true,
         "Show FPS": true,
@@ -458,7 +457,7 @@
     },
     "KillAura": {
         "Attack Mob": false,
-        "Attack Range": 4.517615795135498,
+        "Attack Range": 4.195121765136719,
         "AutoDisable": true,
         "AutoWeapon": true,
         "FOV": 360.0,
@@ -466,14 +465,14 @@
         "Max CPS": 9,
         "Min CPS": 8,
         "Mode": 2,
-        "Priority": 0,
+        "Priority": 2,
         "RandomPitch": false,
         "RandomYaw": false,
         "Rotation Speed": 180.0,
         "Rotations": 1,
-        "Swing Range": 4.756096839904785,
+        "Swing Range": 4.268292427062988,
         "Switch Delay": 721.1464233398438,
-        "ThroughBlock": true,
+        "ThroughBlock": false,
         "enabled": false,
         "keybind": 67
     },
