@@ -1,11 +1,9 @@
 
-/*
-KillAura - G
-Breaker - V
-Fly - F
-InvCleaner - R
-Speed - X
-*/
+//KillAura - G
+//Breaker - V
+//Fly - F
+//InvCleaner - R
+//Speed - X
 
 {
     "Aimbot": {
