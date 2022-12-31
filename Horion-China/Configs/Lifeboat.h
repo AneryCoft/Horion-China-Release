@@ -1,3 +1,12 @@
+
+/*
+KillAura - G
+Breaker - V
+Fly - F
+InvCleaner - R
+Speed - X
+*/
+
 {
     "Aimbot": {
         "Aimlock": false,
@@ -303,7 +312,7 @@
         "RenderMode": 2,
         "Target": 0,
         "enabled": true,
-        "keybind": 79
+        "keybind": 0
     },
     "EditionFaker": {
         "Device": 1,
@@ -518,7 +527,7 @@
     },
     "NoPacket": {
         "enabled": false,
-        "keybind": 103
+        "keybind": 0
     },
     "NoParticles": {
         "enabled": false,
@@ -537,7 +546,7 @@
         "Radius": 4,
         "Veinminer": true,
         "enabled": false,
-        "keybind": 101
+        "keybind": 0
     },
     "PacketLogger": {
         "ShowAuth": false,
